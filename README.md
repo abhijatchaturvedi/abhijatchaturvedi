@@ -2,11 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:075E63,100:B8592D&text=Abhijat%20Chaturvedi&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Senior%20AI%20Lead%20%7C%20Applied%20AI%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn)
 
-# Hi, I am Abhijat Chaturvedi
+# Hi, I am Abhijat Chaturvedi 👋
 
-### Senior AI Lead | Applied AI Scientist | Machine Learning Engineer
+### 🧠 Senior AI Lead | 🔬 Applied AI Scientist | 🤖 Machine Learning Engineer
 
-I build practical AI systems that move from research ideas to real products.
+🚀 I build practical AI systems that move from research ideas to real products.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijatchaturvedi&color=0E75B6&style=flat)
 
@@ -23,20 +23,20 @@ I build practical AI systems that move from research ideas to real products.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I work as a senior AI lead and applied machine learning scientist with 7+ years of experience across Generative AI, RAG, LLM agents, computer vision, healthcare intelligence, and applied ML systems.
 
 I enjoy the space where research and engineering meet: taking a promising idea, testing it honestly, and shaping it into something reliable enough for real users.
 
-- Currently working on AI chat systems, knowledge assistants, RAG pipelines, vector search, multimodal workflows, and agent-based systems.
-- Interested in reliable LLM applications, practical computer vision, AI product engineering, and healthcare AI.
-- Previously worked on image enhancement, super resolution, image harmonization, recommendation systems, government chatbots, and pandemic dashboards.
-- I also write literature on Medium as a personal hobby.
+- 🔭 Currently working on AI chat systems, knowledge assistants, RAG pipelines, vector search, multimodal workflows, and agent-based systems.
+- 🌱 Interested in reliable LLM applications, practical computer vision, AI product engineering, and healthcare AI.
+- 🛠️ Previously worked on image enhancement, super resolution, image harmonization, recommendation systems, government chatbots, and pandemic dashboards.
+- ✍️ I also write literature on Medium as a personal hobby.
 
 ---
 
-## Areas I Work In
+## 🧭 Areas I Work In
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" alt="Generative AI" />
@@ -50,23 +50,23 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ---
 
-## My Tech Stack
+## 🧠 My Tech Stack
 
-### Core Languages
+### 🧩 Core Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Core languages" />
 </p>
 
 ---
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow" alt="Frameworks and libraries" />
 </p>
 
 ---
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,aws,docker,git,github,linux,windows" alt="Databases and tools" />
 </p>
@@ -74,13 +74,13 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ---
 
-## &#128640; Github Insights
+## 🚀 Github Insights
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
-## Connect
+## 📞 Connect
 
 <div align="center">
 
@@ -97,6 +97,6 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 <div align="center">
 
-**Research-minded. Product-aware. Human about the work.**
+**🔬 Research-minded. 🧩 Product-aware. 🤝 Human about the work.**
 
 </div>
