@@ -12,9 +12,9 @@ I build practical AI systems that move from research ideas to real products.
 
 <a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Website-24292F?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://scholar.google.com/citations?user=K-EL0PQAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:abhijatchaturvedi@gmail.com"><img src="https://img.shields.io/badge/Email-abhijatchaturvedi%40gmail.com-red" alt="Email"></a>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=075E63&center=true&vCenter=true&width=850&lines=Generative+AI+%7C+RAG+%7C+LLM+Agents;Computer+Vision+%7C+Image+Intelligence;Vector+Search+%7C+AI+Systems+%7C+ML+Platforms;Research-minded.+Product-aware.+Delivery-focused.)
@@ -72,9 +72,9 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 <a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://abhijatchaturvedi.github.io"><img src="https://img.shields.io/badge/Website-24292F?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://scholar.google.com/citations?user=K-EL0PQAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://abhijatchaturvedi.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:abhijatchaturvedi@gmail.com"><img src="https://img.shields.io/badge/Email-abhijatchaturvedi%40gmail.com-red" alt="Email"></a>
 
 </div>
