@@ -61,14 +61,20 @@ focus:
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,aws,docker,git,github,html,css,js" alt="Tech stack icons" />
-</p>
+<div align="center">
 
-**AI / ML:** Generative AI, LLMs, RAG, LangChain, AI Agents, Prompt Design, Model Evaluation  
-**Data / Backend:** Python, Pandas, NumPy, Django, FastAPI, REST APIs  
-**Systems:** Vector Databases, Embedding Pipelines, Metadata Search, AI Microservices, Observability  
-**Computer Vision:** Image Enhancement, Super Resolution, Image Harmonization, Image Quality Metrics
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,aws,docker,git,github,html,css,js" alt="Tech stack icons" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" alt="LLM" />
+<img src="https://img.shields.io/badge/RAG-075E63?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/Qdrant-B8592D?style=for-the-badge" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Agents-17202A?style=for-the-badge" alt="AI Agents" />
+
+</div>
 
 ---
 
@@ -95,16 +101,24 @@ focus:
 
 ---
 
-## GitHub Snapshot
+## 🚀 Github Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijatchaturvedi&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Abhijat Chaturvedi GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijatchaturvedi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijatchaturvedi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Abhijat Chaturvedi GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijatchaturvedi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=default&hide_border=true" alt="GitHub streak" />
+<br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhijatchaturvedi&theme=flat&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
+<img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijatchaturvedi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijatchaturvedi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
 
 </div>
 
@@ -112,12 +126,16 @@ focus:
 
 ## Connect
 
-- Portfolio: [abhijatchaturvedi.github.io](https://abhijatchaturvedi.github.io)
-- LinkedIn: [linkedin.com/in/abhijatchaturvedi](https://www.linkedin.com/in/abhijatchaturvedi)
-- GitHub: [github.com/abhijatchaturvedi](https://github.com/abhijatchaturvedi)
-- Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=K-EL0PQAAAAJ)
-- Medium: [Literary writing](https://abhijatchaturvedi.medium.com)
-- Email: [abhijatchaturvedi@gmail.com](mailto:abhijatchaturvedi@gmail.com)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-075E63?style=for-the-badge&logo=githubpages&logoColor=white)](https://abhijatchaturvedi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijatchaturvedi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijatchaturvedi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=K-EL0PQAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-Literary%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://abhijatchaturvedi.medium.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-B8592D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijatchaturvedi@gmail.com)
+
+</div>
 
 ---
 
