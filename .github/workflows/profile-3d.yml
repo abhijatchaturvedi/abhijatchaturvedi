@@ -1,0 +1,26 @@
+name: Generate 3D contribution profile
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: abhijatchaturvedi
+
+      - name: Commit generated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "generate 3d contribution profile"
+          file_pattern: profile-3d-contrib/*.svg
