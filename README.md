@@ -92,6 +92,16 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijatchaturvedi/abhijatchaturvedi/output/github-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhijatchaturvedi/abhijatchaturvedi/output/github-snake.svg" />
   </picture>
+
+  <br />
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+  <br />
+  <br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijatchaturvedi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 ---
