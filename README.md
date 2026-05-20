@@ -61,14 +61,7 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,opencv,sklearn" alt="Frameworks and libraries" />
-  <br />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white" alt="Pillow" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,opencv,sklearn,numpy,pandas" alt="Frameworks and libraries" />
 
 ---
 
