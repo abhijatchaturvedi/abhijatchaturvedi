@@ -86,6 +86,14 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijatchaturvedi/abhijatchaturvedi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijatchaturvedi/abhijatchaturvedi/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhijatchaturvedi/abhijatchaturvedi/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 📞 Connect
