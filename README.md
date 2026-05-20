@@ -34,7 +34,7 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ## Areas I Work In
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" alt="Generative AI" />
   <img src="https://img.shields.io/badge/RAG%20Systems-075E63?style=for-the-badge" alt="RAG Systems" />
   <img src="https://img.shields.io/badge/LLM%20Agents-17202A?style=for-the-badge" alt="LLM Agents" />
@@ -65,60 +65,25 @@ focus:
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,aws,docker,git,github,html,css,js" alt="Tech stack icons" />
 
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" alt="LLM" />
-<img src="https://img.shields.io/badge/RAG-075E63?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/Qdrant-B8592D?style=for-the-badge" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Agents-17202A?style=for-the-badge" alt="AI Agents" />
-
 </div>
 
 ---
 
-## Featured Projects
-
-| Project | What it is about |
-|---|---|
-| **WittyChat** | Enterprise chat and knowledge assistant workflows using LLMs, retrieval, and guardrails. |
-| **Agro Insight** | Applied AI for agricultural insight and decision support. |
-| **Surveillance Super Resolution** | Computer vision workflows for improving visual detail in surveillance imagery. |
-| **AI Marketing Image Pipeline** | Image generation, quality evaluation, and harmonization workflows for marketing assets. |
-| **Decision Support System** | Medical decision-support system for case history analysis and treatment guidance. |
-| **Corona Dashboard** | Interactive dashboard for COVID-19 case tracking in India and globally. |
-
----
-
-## Publications and IP
-
-- Questionnaire-Based Prediction of Hypertension Using Machine Learning
-- A Hybrid Approach to Develop and Integrate Chatbot in Health Informatics Systems
-- Study and Analysis of Unique Health Identifiers and Applicability of Aadhaar as a Unique Health Identifier
-- Probabilistic Investigation Recommendation System
-- RaktBot: An AI-Based Citizen Centric Chatbot for Blood Related Services
-
----
-
-## 🚀 Github Insights
+## &#128640; Github Insights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijatchaturvedi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Abhijat Chaturvedi GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijatchaturvedi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijatchaturvedi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Abhijat Chaturvedi GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhijatchaturvedi&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijatchaturvedi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijatchaturvedi&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijatchaturvedi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhijatchaturvedi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijatchaturvedi&theme=github_dark" alt="GitHub profile summary" />
 
 </div>
 
