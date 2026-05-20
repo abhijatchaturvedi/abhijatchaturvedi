@@ -9,6 +9,8 @@
 🚀 I build practical AI systems that move from research ideas to real products.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhijatchaturvedi&color=0E75B6&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/abhijatchaturvedi?label=Stars&style=flat&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/abhijatchaturvedi/abhijatchaturvedi?label=Forks&style=flat&color=blue)
 
 <a href="https://www.linkedin.com/in/abhijatchaturvedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/abhijatchaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
