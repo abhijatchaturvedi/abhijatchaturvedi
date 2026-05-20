@@ -54,7 +54,20 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,aws,docker,git,github,html,css,js" alt="Tech stack icons" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Languages" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow" alt="Frameworks and libraries" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" alt="Databases" />
+
+### Cloud, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="Cloud tools and platforms" />
+
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating systems" />
 
 </div>
 
