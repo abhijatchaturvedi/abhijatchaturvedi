@@ -50,26 +50,27 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
 
 ---
 
-## Tech Stack
+## My Tech Stack
 
-<div align="center">
+### Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Core languages" />
+</p>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" alt="Languages" />
+---
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow" alt="Frameworks and libraries" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow" alt="Frameworks and libraries" />
+</p>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" alt="Databases" />
+---
 
-### Cloud, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="Cloud tools and platforms" />
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,aws,docker,git,github,linux,windows" alt="Databases and tools" />
+</p>
 
-### Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating systems" />
-
-</div>
 
 ---
 
