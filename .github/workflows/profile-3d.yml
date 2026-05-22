@@ -4,23 +4,39 @@ on:
   schedule:
     - cron: "30 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: abhijatchaturvedi
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Record generation time
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > profile-3d-contrib/last-generated.txt
 
       - name: Commit generated profile
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "generate 3d contribution profile"
-          file_pattern: profile-3d-contrib/*.svg
+          branch: main
+          file_pattern: profile-3d-contrib/*.svg profile-3d-contrib/last-generated.txt

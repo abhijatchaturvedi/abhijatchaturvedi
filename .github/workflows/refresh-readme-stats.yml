@@ -1,0 +1,36 @@
+name: Refresh README stats
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Refresh stats cache buster
+        shell: pwsh
+        run: |
+          $date = Get-Date -AsUTC -Format "yyyyMMdd"
+          $readme = Get-Content README.md -Raw
+          $readme = $readme -replace "cache_bust=\d+", "cache_bust=$date"
+          Set-Content README.md $readme -NoNewline
+
+      - name: Commit README stats refresh
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "refresh readme stats cache"
+          branch: main
+          file_pattern: README.md
