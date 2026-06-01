@@ -96,7 +96,7 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
   <br />
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=github-dark-blue&hide_border=true&cache_bust=20260531" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=abhijatchaturvedi&theme=github-dark-blue&hide_border=true&cache_bust=20260601" alt="GitHub streak" />
 
   <br />
   <br />
