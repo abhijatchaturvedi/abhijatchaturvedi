@@ -101,7 +101,7 @@ I enjoy the space where research and engineering meet: taking a promising idea, 
   <br />
   <br />
 
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=abhijatchaturvedi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=abhijatchaturvedi&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6&cache_bust=20260602" alt="GitHub trophies" />
 </div>
 
 ---
