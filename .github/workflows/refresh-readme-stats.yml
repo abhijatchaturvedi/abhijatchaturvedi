@@ -28,6 +28,17 @@ jobs:
           $readme = $readme -replace "cache_bust=\d+", "cache_bust=$date"
           Set-Content README.md $readme -NoNewline
 
+      - name: Update total stars count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: pwsh
+        run: |
+          $repos = gh api '/users/abhijatchaturvedi/repos?per_page=100&type=owner' | ConvertFrom-Json
+          $stars = ($repos | Measure-Object -Property stargazers_count -Sum).Sum
+          $readme = Get-Content README.md -Raw
+          $readme = $readme -replace 'Stars-\d+-yellow', "Stars-$stars-yellow"
+          Set-Content README.md $readme -NoNewline
+
       - name: Commit README stats refresh
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
